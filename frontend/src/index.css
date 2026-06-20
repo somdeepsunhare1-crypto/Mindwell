@@ -123,4 +123,10 @@ a {
 
 .btn-secondary {
   background-color: var(--bg-tertiary);
-  color: var(
+  color: var(--text-primary);
+  padding: 14px 24px;
+  border-radius: var(--radius-md);
+  font-weight: 500;
+  font-size: 15px;
+  width: 100%;
+}
